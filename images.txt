@@ -1,6 +1,7 @@
 nginx
 #支持私库
 rabbitmq
+rabbitmq:management
 minio/minio
 redis
 nacos/nacos-server
