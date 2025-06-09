@@ -4,6 +4,7 @@ rabbitmq
 rabbitmq:management
 minio/minio
 redis
+redis:7.4.3
 nacos/nacos-server
 centos:centos7.9.2009
 mobtitude/vpn-pptp
